@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dce07d22-6688-485b-b39a-c08b55955ce0" name="Changes" comment="passei aids pro pai do wellington kk">
-      <change afterPath="$PROJECT_DIR$/src/Turista.java" afterDir="false" />
+    <list default="true" id="dce07d22-6688-485b-b39a-c08b55955ce0" name="Changes" comment="eu gosto de filmes assustadores">
+      <change afterPath="$PROJECT_DIR$/src/Validacao.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Turista.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Turista.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +60,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1693304198457</updated>
-      <workItem from="1693304200689" duration="2538000" />
+      <workItem from="1693304200689" duration="3630000" />
     </task>
     <task id="LOCAL-00001" summary="passei aids pro pai do wellington kk">
       <created>1693304381043</created>
@@ -75,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693304437679</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="eu gosto de filmes assustadores">
+      <created>1693306862024</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1693306862024</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,6 +102,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="passei aids pro pai do wellington kk" />
-    <option name="LAST_COMMIT_MESSAGE" value="passei aids pro pai do wellington kk" />
+    <MESSAGE value="eu gosto de filmes assustadores" />
+    <option name="LAST_COMMIT_MESSAGE" value="eu gosto de filmes assustadores" />
   </component>
 </project>

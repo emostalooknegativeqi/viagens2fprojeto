@@ -1,8 +1,8 @@
 public class Turista {
 
-    //atributos
-    String nome;
-    String cpf;
+    //atributos - variaveis de instancia
+    private String nome;
+    private String cpf;
 
     //construtor padrão
     Turista(){
@@ -15,5 +15,25 @@ public class Turista {
     //métodos
     public String Viajar(){
         return "Viajou";
+    }
+
+    //getters e setters
+
+    public String getNome() {
+        return nome;
+    }
+
+    public String getCpf() {
+        return cpf;
+    }
+
+    public void setCpf(String cpf) {
+        //validar cpf
+
+        this.cpf = cpf;
+    }
+
+    public void setNome(String nome) {
+        this.nome = nome;
     }
 }

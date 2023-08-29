@@ -1,3 +1,4 @@
+import javax.swing.*;
 public class Main {
     public static void main(String[] args) {
         //mochileiro é objeto
@@ -5,12 +6,12 @@ public class Main {
         Turista mochileiro = new Turista("Kanye West");
         Turista mochileira = new Turista();
         //definir forma de cada turista
-        mochileiro.cpf = "123";
-        mochileira.nome = "Deide Costa";
-        mochileira.cpf = "666";
+        mochileiro.setCpf(Validacao.cpf("666s"));
+        mochileira.setNome("Deide Costa");
+        mochileira.setCpf("666");
         //definir comportamento
         String retorno = mochileira.Viajar();
-        System.out.println(retorno);
+        JOptionPane.showMessageDialog(null,retorno);
 
         // = new Turista() é construtor
 
