@@ -1,20 +1,17 @@
 import javax.swing.*;
+
 public class Main {
     public static void main(String[] args) {
-        //mochileiro é objeto
-        //Classe Objeto = Construtor
-        Turista mochileiro = new Turista("Kanye West");
+        // Classe Objeto = Construtor
+        Turista mochileiro = new Turista("Lindsay");
         Turista mochileira = new Turista();
-        //definir forma de cada turista
-        mochileiro.setCpf(Validacao.cpf("666s"));
-        mochileira.setNome("Deide Costa");
-        mochileira.setCpf("666");
-        //definir comportamento
-        String retorno = mochileira.Viajar();
+        // Definir forma de cada turista
+        mochileiro.setCpf(Validacao.cpf("123"));
+        mochileira.setNome("Namor");
+        mochileira.setCpf("456");
+        // Definir comportamento
+        String retorno = mochileira.viajar();
         JOptionPane.showMessageDialog(null,retorno);
-
-        // = new Turista() é construtor
-
 
     }
 }

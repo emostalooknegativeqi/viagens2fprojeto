@@ -36,4 +36,8 @@ public class Turista {
     public void setNome(String nome) {
         this.nome = nome;
     }
+
+    public String viajar() {
+        return null;
+    }
 }
