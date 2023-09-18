@@ -21,5 +21,8 @@ public class Main {
         //saida de dados
         System.out.println(pessoaTurista.getNome());
 
+        //cpf do arrombado ai tropa
+        String cpf = JOptionPane.showInputDialog("Entre com o cpf do turista");
+        System.out.println(cpf);
     }
 }
