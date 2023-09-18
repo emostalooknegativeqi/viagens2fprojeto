@@ -23,6 +23,12 @@ public class Main {
 
         //cpf do arrombado ai tropa
         String cpf = JOptionPane.showInputDialog("Entre com o cpf do turista");
-        System.out.println(cpf);
+
+        if(Validacao.cpf(cpf)){
+        pessoaTurista.setCpf(cpf);
+        System.out.println(pessoaTurista.getCpf());
+        }else{
+            System.out.println("CPF inválido!");
+        }
     }
 }

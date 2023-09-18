@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dce07d22-6688-485b-b39a-c08b55955ce0" name="Changes" comment="eu vi a diva Gina berta">
+    <list default="true" id="dce07d22-6688-485b-b39a-c08b55955ce0" name="Changes" comment="meu tio shu da empresa shu passeios">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Validacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Validacao.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +60,7 @@
       <option name="presentableId" value="Default" />
       <updated>1693304198457</updated>
       <workItem from="1693304200689" duration="3630000" />
-      <workItem from="1695037385419" duration="3821000" />
+      <workItem from="1695037385419" duration="4282000" />
     </task>
     <task id="LOCAL-00001" summary="passei aids pro pai do wellington kk">
       <created>1693304381043</created>
@@ -96,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695040649970</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="meu tio shu da empresa shu passeios">
+      <created>1695041628674</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1695041628674</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,6 +126,7 @@
     <MESSAGE value="eu gosto de filmes assustadores" />
     <MESSAGE value="eu gosto de filmes assustadores uiui" />
     <MESSAGE value="eu vi a diva Gina berta" />
-    <option name="LAST_COMMIT_MESSAGE" value="eu vi a diva Gina berta" />
+    <MESSAGE value="meu tio shu da empresa shu passeios" />
+    <option name="LAST_COMMIT_MESSAGE" value="meu tio shu da empresa shu passeios" />
   </component>
 </project>
